@@ -12,9 +12,11 @@
 ember install ember-frost-core
 ```
 
+## AYYYYYYYYYYY LMAOOOOOOOOOOOOOOOO
+
 ## Components
 
-The following components are available when you install ember-frost-core
+The following components are available when you install ember-frost-core this is also just a test 
 
 * [frost-bookends](docs/frost-bookends.md)
 * [frost-button](docs/frost-button.md)
